@@ -21,6 +21,7 @@
 
 
  ### LICZNIK WIZYT
-  ![LICZNIK WIZYT](https://profile-counter.glitch.me/MlodyR/count.svg)
+## Visitor Count
+![](https://komarev.com/ghpvc/?username=MlodyRR-github-username&color=dc143c)
 
 <br />
