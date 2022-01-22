@@ -24,8 +24,8 @@
 ![Statystyki](https://github-readme-stats.vercel.app/api?username=MlodyR&count_private=true&show_icons=true?theme=buefy)
 
 
- ### LICZNIK WIZYT
-## Visitor Count
+
+## LICZNIK WIZYT
 ![](https://komarev.com/ghpvc/?username=MlodyRR-github-username&color=dc143c)
 
 <br />
