@@ -10,7 +10,7 @@
 
 <img align="right" height="100" src="https://media.giphy.com/media/YMkdLKfomkpDGNM9NB/giphy.gif"/>
 
-### Kontakt do mnie: 
+### Lua Shop: 
 
 「 <img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />https://discord.gg/z2N3C3UPaA」
 <br />
