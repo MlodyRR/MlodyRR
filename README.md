@@ -8,7 +8,7 @@
 
 <img align="left" height="200" src="https://media.giphy.com/media/YMkdLKfomkpDGNM9NB/giphy.gif"/>
 
-<img align="right" height="100" src="https://media.giphy.com/media/YMkdLKfomkpDGNM9NB/giphy.gif"/>
+<img align="right" height="200" src="https://media.giphy.com/media/YMkdLKfomkpDGNM9NB/giphy.gif"/>
 
 ### Lua Shop: 
 
