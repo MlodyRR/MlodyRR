@@ -15,10 +15,11 @@
 「 <img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />https://discord.gg/z2N3C3UPaA 」
 <br />
 
+### Lua RP: 
+
 「 <img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />https://discord.gg/z2N3C3UPaA 」
 <br />
 
-### Lua RP: 
 
 ### Statystyki !
 ![Statystyki](https://github-readme-stats.vercel.app/api?username=MlodyR&count_private=true&show_icons=true?theme=buefy)
